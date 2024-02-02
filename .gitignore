@@ -1,0 +1,7 @@
+# Ignore Docker-related files
+docker-compose.override.yml
+docker-compose.old.yml
+.DS_Store
+.env
+.env.prod
+postgres-data
